@@ -1,0 +1,1 @@
+function repeat1(r){for(var e=[],n=0;n<r.length;n++)-1===e.indexOf(r[n])&&e.push(r[n]);return e}function repeat2(r){for(var e=[],n=r.length;n>0;n--)-1===e.indexOf(r[n])&&e.push(r[n]);return e}var arr=[1,2,3,4,5,4,3,2,1],arr=[1,2,3,4,5,4,3,2,1];
