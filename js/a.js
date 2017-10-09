@@ -11,3 +11,4 @@ function repeat1(arr){
     }
     return brr;
 }
+console.log(repeat1(arr));
